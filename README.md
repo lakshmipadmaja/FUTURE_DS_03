@@ -1,13 +1,16 @@
-
 # Marketing Funnel & Conversion Performance Analysis
 
 ## Future Interns – Data Science & Analytics Internship | Task 3
 
 ### Project Overview
-Analysis of marketing qualified leads and closed deals using the Olist Marketing Funnel dataset.
+This project analyzes marketing qualified leads and closed deals using the Olist Marketing Funnel dataset. It identifies conversion drop-offs, compares marketing channel performance, evaluates landing pages, and provides actionable business recommendations.
 
-### Tools
-Python, Pandas, NumPy, Matplotlib, Plotly, Jupyter Notebook, ReportLab.
+### Tools & Technologies
+- Python
+- Pandas and NumPy
+- Matplotlib and Plotly
+- Jupyter Notebook
+- ReportLab
 
 ### Key Performance Indicators
 
@@ -17,31 +20,34 @@ Python, Pandas, NumPy, Matplotlib, Plotly, Jupyter Notebook, ReportLab.
 | Closed Deals | 842 |
 | Conversion Rate | 10.53% |
 | Drop-off Rate | 89.48% |
-| Median Days to Close | 14 |
+| Median Days to Close | 14 days |
 
 ### Key Findings
-- Paid Search conversion: 12.30%.
-- Organic Search conversion: 11.80%.
-- Social Media conversion: 5.56%.
-- Email Marketing conversion: 3.04%.
-- February 2018 conversion rate: 14.49%.
+- Paid Search conversion rate: 12.30%.
+- Organic Search conversion rate: 11.80%.
+- Social Media conversion rate: 5.56%.
+- Email Marketing conversion rate: 3.04%.
+- February 2018 recorded the highest monthly conversion rate at 14.49%.
 
-### Recommendations
-1. Optimize paid search campaigns.
-2. Improve organic search performance.
-3. Test social media campaigns.
-4. Improve email personalization.
-5. Optimize landing pages.
-6. Strengthen lead follow-up.
+### Business Recommendations
+1. Optimize paid search campaigns and high-intent keywords.
+2. Invest in high-performing organic search content.
+3. Test social media creatives, audiences, and messaging.
+4. Improve email personalization and calls to action.
+5. Review landing pages with high traffic but low conversion.
+6. Strengthen lead follow-up processes.
 7. Improve business profile data collection.
 
 ### Project Outputs
-- Interactive Dashboard: `dashboard/Marketing_Funnel_Interactive_Dashboard.html`
-- PDF Report: `reports/Marketing_Funnel_Analysis_Report.pdf`
-- Notebook: `notebooks/Marketing_Funnel_Analysis.ipynb`
+- **Interactive Dashboard:** `dashboard/Marketing_Funnel_Interactive_Dashboard.html`
+- **PDF Report:** `reports/Marketing_Funnel_Analysis_Report.pdf`
+- **Analysis Notebook:** `notebooks/Marketing_Funnel_Analysis.ipynb`
 
 ### Dataset
-[Olist Marketing Funnel Dataset](https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist)
+[Olist Marketing Funnel Dataset – Kaggle](https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist)
+
+### Methodology Note
+The closed-deals dataset contains recorded won deals. Therefore, conversion is measured from marketing qualified leads to recorded closed deals. The available data supports a two-stage funnel analysis.
 
 ### Author
-Gonchala Lakshmi Padmaja
+**Gonchala Lakshmi Padmaja**
