@@ -39,7 +39,7 @@ This project analyzes marketing qualified leads and closed deals using the Olist
 7. Improve business profile data collection.
 
 ### Project Outputs
-- **Interactive Dashboard:** `dashboard/Marketing_Funnel_Interactive_Dashboard.html`
+- **Live Interactive Dashboard:** [Click here to view](https://lakshmipadmaja.github.io/FUTURE_DS_03/dashboard/Marketing_Funnel_Interactive_Dashboard.html)
 - **PDF Report:** `reports/Marketing_Funnel_Analysis_Report.pdf`
 - **Analysis Notebook:** `notebooks/Marketing_Funnel_Analysis.ipynb`
 
